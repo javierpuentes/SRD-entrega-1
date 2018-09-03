@@ -21,4 +21,6 @@ Las empresas organizadas y autorizadas en el proceso de recolección tendrán su
 Para el diseño de la aplicación, se requiere del servicio de hosting que permita almacenar el backend, el cual estará compuesto por la base de datos y el código fuente que permita las transacciones con el APP, también soportar el portal web, en la cual se mostrará la información institucional y parte de los contenidos que también estarán presentes en la APP.  
 La APP consumirá los servicios del portal y cuya información será propia de los usuarios registrados (nombre, contraseña, cuenta con la forma de debitar los servicios que solicite).
 
+Es importante que se cuente con una entidad que se encargue de la validación de la plataforma, ya que se realizarán transacciones monetarias, en estas participarán quienes realizan la solicitud de un servicio y quien lo atiende, de igual forma, los recursos que se generen deben permitir cubrir los gastos derivados de mantener activa a aplicación y servicio.
+
 ### 
