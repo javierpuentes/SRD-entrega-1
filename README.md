@@ -1,6 +1,6 @@
 # SRD-entrega-1
 Primera entrega de piensa digital
-## SRD  Sistema de Reciclaje a Domicilio
+## SRD  -Sistema de Reciclaje a Domicilio-
 App que permite integrar los servicios  de recolección de basura a los ciudadanos, flexibilizando los horarios de recolección y procurando mantener el entorno limpio de basura. Fomenta la cultura del reciclaje, brindado oportunidades laborales a terceros que se verán beneficiados  del proceso.
 ### Objetivo
 Presentar una solución al problema de las basuras en las calles, generando conciencia ciudadana sobre la importancia de la limpieza y el reciclaje.
