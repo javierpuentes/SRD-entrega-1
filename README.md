@@ -5,10 +5,14 @@ App que permite integrar los servicios  de recolección de basura a los ciudadan
 ### Objetivo
 Presentar una solución al problema de las basuras en las calles, generando conciencia ciudadana sobre la importancia de la limpieza y el reciclaje.
 ### Objetivos
-•	Permite identificar los horarios y recorridos de las empresas de aseo, generando alertas de los tiempos aproximados en que cada ciudadano debe sacar la basura
-•	Para quienes no lo puedan hacer en los horarios establecidos, terceros podrán hacer la recolección en los horarios que el ciudadano acuerden, de esta forma se toma conciencia de una ciudad limpia, siendo un compromiso de todos.
-•	Quienes dispongan de escombros, podrán contactar también la recogida ya sea con la empresa de aseo del sector o los terceros que ofrezcan el servicio. 
-•	Generación de contenidos educativos sobre la cultura del reciclaje.
+•	Permite identificar los horarios y recorridos de las empresas de aseo, generando alertas de los tiempos aproximados en que cada ciudadano debe sacar la basura.  
+
+•	Para quienes no lo puedan hacer en los horarios establecidos, terceros podrán hacer la recolección en los horarios que el ciudadano acuerden, de esta forma se toma conciencia de una ciudad limpia, siendo un compromiso de todos.  
+
+•	Quienes dispongan de escombros, podrán contactar también la recogida ya sea con la empresa de aseo del sector o los terceros que ofrezcan el servicio.  
+
+•	Generación de contenidos educativos sobre la cultura del reciclaje.  
+
 •	Permitir que terceros se beneficien del proceso de reciclaje.
 ### Alcance
 Establecer los requerimientos y actores en el proceso eficiente de recolección de basura procurando mejorar  la forma actual y el beneficio de las partes.
